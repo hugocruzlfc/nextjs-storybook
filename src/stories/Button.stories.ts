@@ -1,6 +1,4 @@
-import { Button } from "@/components/ui/button";
-import type { Meta, StoryObj } from "@storybook/react";
-import "@/app/globals.css";
+import { Button, Meta, StoryObj } from "./global.config";
 
 // More on how to set up stories at: https://storybook.js.org/docs/writing-stories#default-export
 const meta = {

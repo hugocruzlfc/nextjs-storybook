@@ -1,6 +1,4 @@
-import { Badge } from "@/components/ui/badge";
-import type { Meta, StoryObj } from "@storybook/react";
-import "@/app/globals.css";
+import { Badge, Meta, StoryObj } from "./global.config";
 
 const meta = {
   title: "Example/Badge",
